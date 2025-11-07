@@ -1,0 +1,9 @@
+{
+  "name": "Connected Health Agentic",
+  "short_name": "HealthAI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#0E7490",
+  "icons": []
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "triage-fever-child",
+    "title": "Managing Fever in Children",
+    "content": "Ensure the child is hydrated, use paracetamol according to weight, sponge with lukewarm water, and seek care if fever lasts more than 48 hours or if there is rash or breathing difficulty.",
+    "tags": ["triage", "pediatrics"],
+    "language": "en"
+  },
+  {
+    "id": "triage-ur",
+    "title": "Bukhar aur Jalan",
+    "content": "Bachay ko bukhar ho to pani zyada pilain, kapray halkay rakhein, aur agar saans mein takleef ho ya bukhar 2 din se zyada ho to doctor se rujoo karein.",
+    "tags": ["triage", "ur"],
+    "language": "ur"
+  },
+  {
+    "id": "maternal-antenatal",
+    "title": "Antenatal Visit Essentials",
+    "content": "Pregnant women need iron/folate daily, tetanus vaccination, and urgent care for bleeding, severe headache, or swelling.",
+    "tags": ["maternal", "guidance"],
+    "language": "en"
+  },
+  {
+    "id": "epi-schedule",
+    "title": "EPI Vaccine Schedule",
+    "content": "BCG + OPV at birth; Pentavalent + OPV at 6, 10, 14 weeks; PCV at 6 and 14 weeks; Measles and Rubella at 9 and 15 months.",
+    "tags": ["vaccine", "schedule"],
+    "language": "en"
+  },
+  {
+    "id": "program-subsidy",
+    "title": "Provincial Nutrition Subsidy",
+    "content": "Families enrolled in Benazir Income Support Programme can access fortified flour subsidy by showing their BISP card or placeholder CNIC 12345-xxxxxxx-x at designated stores.",
+    "tags": ["program", "subsidy"],
+    "language": "en"
+  }
+]

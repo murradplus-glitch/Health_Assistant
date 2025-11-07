@@ -1,0 +1,30 @@
+[
+  {
+    "id": "triage-basic",
+    "category": "triage",
+    "title": "Basic Home Care Guidance",
+    "language": "en",
+    "content": "For mild fever, ensure hydration, give paracetamol according to age/weight, and monitor for danger signs."
+  },
+  {
+    "id": "epi-schedule",
+    "category": "vaccine",
+    "title": "Expanded Programme on Immunization (EPI) schedule",
+    "language": "en",
+    "content": "BCG and OPV at birth, Pentavalent + OPV at 6, 10, 14 weeks, Measles at 9 and 15 months."
+  },
+  {
+    "id": "maternal-care",
+    "category": "maternal",
+    "title": "Antenatal Care Visits",
+    "language": "en",
+    "content": "Pregnant women should attend at least 4 antenatal visits, take iron/folate, and seek care for bleeding, severe headache, or swelling."
+  },
+  {
+    "id": "program-sehat-card",
+    "category": "program",
+    "title": "Sehat Card Plus",
+    "language": "en",
+    "content": "Government-supported insurance for low-income families. Placeholder CNIC 12345-xxxxxxx-x accepted during pilot enrollment."
+  }
+]

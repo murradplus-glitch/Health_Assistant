@@ -1,0 +1,30 @@
+# Node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.bun
+
+# Python
+__pycache__
+*.pyc
+.venv
+.env
+
+# Prisma
+backend/prisma/dev.db
+backend/prisma/dev.db-journal
+
+# Next.js
+.next
+out
+
+# Python data
+agents/.chroma
+agents/chroma_store
+
+# Misc
+.DS_Store
+*.log
+coverage
