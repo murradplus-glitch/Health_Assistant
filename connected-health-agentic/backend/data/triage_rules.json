@@ -1,0 +1,18 @@
+{
+  "fever": {
+    "level": "clinic",
+    "reason": "Persistent fever detected",
+    "recommendedUrgency": "Within 24 hours if fever exceeds 38.5C",
+    "redFlags": ["stiff neck", "difficulty breathing", "rash"]
+  },
+  "rash": {
+    "level": "clinic",
+    "reason": "Skin rash with fever can indicate infection",
+    "recommendedUrgency": "Within 24 hours"
+  },
+  "severe pain": {
+    "level": "emergency",
+    "reason": "Severe pain can indicate emergency",
+    "recommendedUrgency": "Immediately"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "default": {
+    "level": "self-care",
+    "reason": "No severe symptoms detected in offline rules.",
+    "recommendedUrgency": "Monitor at home and seek care if symptoms worsen.",
+    "disclaimer": "This is a decision-support tool, not a doctor. In case of severe symptoms or doubt, go to the nearest emergency facility immediately."
+  },
+  "fever": {
+    "level": "clinic",
+    "reason": "Fever lasting more than 48 hours requires evaluation.",
+    "recommendedUrgency": "Visit a clinic within 24 hours.",
+    "disclaimer": "Seek emergency help if child is lethargic, has stiff neck, or persistent vomiting."
+  },
+  "breathing difficulty": {
+    "level": "emergency",
+    "reason": "Breathing difficulty is a red flag.",
+    "recommendedUrgency": "Go to the nearest emergency facility immediately.",
+    "disclaimer": "Call emergency services if breathing is rapidly worsening."
+  },
+  "pregnancy bleeding": {
+    "level": "emergency",
+    "reason": "Bleeding during pregnancy is an emergency.",
+    "recommendedUrgency": "Immediate emergency evaluation required.",
+    "disclaimer": "Ensure someone accompanies the patient to the hospital."
+  }
+}
